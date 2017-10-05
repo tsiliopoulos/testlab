@@ -1,0 +1,16 @@
+﻿  main.cpp
+c:\users\tsili\onedrive\documents\courses\infr2310u - animation - algo & tech\tutorials\starter(2)\starter\include\ttk\camera.h(32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\tsili\onedrive\documents\courses\infr2310u - animation - algo & tech\tutorials\starter(2)\starter\include\ttk\camera.h(45): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\tsili\onedrive\documents\courses\infr2310u - animation - algo & tech\tutorials\starter(2)\starter\include\ttk\camera.h(46): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\tsili\onedrive\documents\courses\infr2310u - animation - algo & tech\tutorials\starter(2)\starter\src\main.cpp(123): warning C4060: switch statement contains no 'case' or 'default' labels
+c:\users\tsili\onedrive\documents\courses\infr2310u - animation - algo & tech\tutorials\starter(2)\starter\src\main.cpp(166): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\tsili\onedrive\documents\courses\infr2310u - animation - algo & tech\tutorials\starter(2)\starter\src\main.cpp(167): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\tsili\onedrive\documents\courses\infr2310u - animation - algo & tech\tutorials\starter(2)\starter\src\main.cpp(169): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\tsili\onedrive\documents\courses\infr2310u - animation - algo & tech\tutorials\starter(2)\starter\src\main.cpp(170): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\tsili\onedrive\documents\courses\infr2310u - animation - algo & tech\tutorials\starter(2)\starter\src\main.cpp(197): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\tsili\onedrive\documents\courses\infr2310u - animation - algo & tech\tutorials\starter(2)\starter\src\main.cpp(199): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\tsili\onedrive\documents\courses\infr2310u - animation - algo & tech\tutorials\starter(2)\starter\src\main.cpp(200): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\tsili\onedrive\documents\courses\infr2310u - animation - algo & tech\tutorials\starter(2)\starter\src\main.cpp(202): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\tsili\onedrive\documents\courses\infr2310u - animation - algo & tech\tutorials\starter(2)\starter\src\main.cpp(203): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Tutorial 1.vcxproj -> C:\Users\tsili\OneDrive\Documents\Courses\INFR2310U - Animation - Algo & Tech\Tutorials\starter(2)\starter\x64\Debug\Tutorial 4.exe
+  Tutorial 1.vcxproj -> C:\Users\tsili\OneDrive\Documents\Courses\INFR2310U - Animation - Algo & Tech\Tutorials\starter(2)\starter\x64\Debug\Tutorial 4.pdb (Full PDB)
